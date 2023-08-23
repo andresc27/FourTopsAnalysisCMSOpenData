@@ -1,5 +1,5 @@
 # FourTopsAnalysisCMSOpenData
-Simplified analysis of the production of four top quarks in a single lepton channel
+Simplified analysis of the production of four top quarks in a single lepton channel (electron+jets)
 
 There are three important python notebooks
 

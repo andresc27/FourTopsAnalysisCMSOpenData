@@ -8,6 +8,6 @@ There are three important python notebooks
 2. Electron_plots.ipynb
    Is used to plot histogramas of all the relevant variables
 3. BDT_similar.ipynb
-   Is used to apply a simplified BDT algorithm
+   Is used to apply a simplified BDT algorithm (Machine Learning)
 
-The analysis can be run using the swan tool https://swan-k8s.cern.ch/
+Disclaimer: The analysis can be run using the swan tool https://swan-k8s.cern.ch/ provided by CERN

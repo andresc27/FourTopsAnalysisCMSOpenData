@@ -10,4 +10,4 @@ There are three important python notebooks
 3. BDT_similar.ipynb
    Is used to apply a simplified BDT algorithm (Machine Learning)
 
-Disclaimer: The analysis can be run using the swan tool https://swan-k8s.cern.ch/ provided by CERN
+Disclaimer: The analysis can be run using the swan tool https://swan-k8s.cern.ch/ provided by CERN. So you must be a CMS member.
